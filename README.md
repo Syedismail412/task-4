@@ -27,7 +27,6 @@ This task helped me gain hands-on experience in designing dashboards that commun
 
 ## 📁 Folder Structure
 
-![Screenshot (27)](https://github.com/user-attachments/assets/28371592-c81e-4e99-bc6f-f81322fc6940)
 
 
 
